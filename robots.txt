@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cligink.github.io/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/app/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/assets/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/css/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/data/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/includes/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/item/sitemap.cligink.gz
+Sitemap: https://cligink.github.io/src/sitemap.cligink.gz
